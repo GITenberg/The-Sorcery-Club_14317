@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5469
     wikipedia: http://en.wikipedia.org/wiki/Elliott_O%27Donnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14317#The-Sorcery-Club
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2004-12-10'
 gutenberg_type: Text
